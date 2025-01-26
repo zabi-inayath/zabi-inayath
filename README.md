@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about web development, backend engi
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Zabi's GitHub Stats" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zabi-inayath&show_icons=true&theme=radical" alt="Zabi's GitHub Stats" width="60%"/>
 </div>
 
 ---
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about web development, backend engi
 - 💻 **Web Developer** | Skilled in HTML, CSS, JavaScript, Node.js, React.js, MongoDB, and Java.
 - 🔄 **Backend Enthusiast** | Focused on building scalable, secure, and efficient server-side systems.
 - 🎨 **Part-Time Poster Designer** | Crafting creative designs for food industry clients.
-- 🌟 **YouTuber** | Managing my channel [Skywayy Islam](https://www.youtube.com/@SkywayyIslam), sharing Islamic content with 5,000+ subscribers.
+- 🌟 **YouTuber** | Managing my channel [Skywayy Islam](https://www.youtube.com/@05reflections), sharing Islamic content with 5,000+ subscribers.
 
 ---
 
@@ -33,19 +33,19 @@ Welcome to my GitHub profile! I'm passionate about web development, backend engi
 
 ## 🌟 **Featured Projects**
 
-### 📌 [Ayfa Artistry](https://github.com/your-repo-link)
-An e-commerce platform featuring:
+### 📌 [e-Commerce Website](https://github.com/zabi-inayath)
+Platform featuring:
 - 🎁 Customized gifts and artworks
 - 📄 PDF invoice generation for orders
 - 🔧 Built with: HTML, CSS, JavaScript, Express.js, Node.js, MySQL
 
-### 📌 [ChatByZ](https://github.com/your-repo-link)
+### 📌 [ChatByZ](https://github.com/zabi-inayath)
 A real-time chat application with:
 - 💬 User-friendly interface
 - 🌐 Full-stack implementation
 - 🔧 Built with: React, Node.js, Express.js, MongoDB
 
-### 📌 [Quora Clone](https://github.com/your-repo-link)
+### 📌 [Quora Clone](https://github.com/zabi-inayath)
 A Q&A platform with CRUD functionality, built using:
 - 🛠️ Node.js, Express.js
 - 🏗️ RESTful API architecture
@@ -60,9 +60,9 @@ A Q&A platform with CRUD functionality, built using:
 
 ## 📫 **Connect with Me**
 <div align="center">
-  <a href="mailto:zabiullah@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/zabiullah-syed"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@SkywayyIslam"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="mailto:zabi2201@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/zabi-inayath"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@05reflections"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </div>
 
 ---
@@ -85,5 +85,5 @@ Feel free to reach out if you'd like to work together or have any questions!
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Zabi's Streak Stats" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zabi-inayath&theme=radical" alt="Zabi's Streak Stats" width="60%"/>
 </div>
